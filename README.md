@@ -3,7 +3,7 @@
 Me chamo Joselin Keyla Alarcon Cano, tenho 20 anos e sou natural de São Paulo. Concluí o curso técnico em Informática para Internet na ETEC Parque Belém. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na SPTECH. 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/JKeyla?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
