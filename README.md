@@ -1,6 +1,6 @@
 ## 👩🏽‍💻Joselin Keyla
 
-Me chamo Joselin Keyla Alarcon Cano, tenho 20 anos e sou natural de São Paulo. Concluí o curso técnico em Informática para Internet na ETEC Parque Belém. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na SPTECH. 
+Me chamo Joselin Keyla Alarcon Cano, tenho 21 anos e sou natural de São Paulo. Concluí o curso técnico em Informática para Internet na ETEC Parque Belém e o curso de Análise e Desenvolvimento de Sistemas na SPTECH. 
 
 <p align="left">
     <a href="https://github.com/JKeyla?tab=repositories&sort=stargazers">
